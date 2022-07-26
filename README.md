@@ -1,0 +1,2 @@
+# Modern-blog-app
+The Modern Blog App is the best GraphQL Blog Application with featured and recent posts, categories. full markdown articles, author information, comments, and much more. And what's best of all is that you or your clients can manage the blog from a dedicated Content Management System. Built with the newest technologies such as React JS, NextJS, Tailwind CSS, GraphQL, and GraphCMS. 
